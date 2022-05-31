@@ -1,1 +1,1 @@
-## This project is MyLog, a blog web app service created using the React Library.
+## This project is MyLog, a blog created using the React Library.
